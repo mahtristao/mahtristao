@@ -1,16 +1,48 @@
-### Hello World, I'm Marjorie Tristão 👋
+<h1 align="center">
+  Hello World, I'm Marjorie Tristão 👋
+</h1>
 
-<!--
-**mahtristao/mahtristao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img height="320em" src="https://media.giphy.com/media/WRRL1EKo9rNe12S4zh/giphy.gif"/>
+  
+  
+</div>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Junior Full-Stack Developer
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<p>
+<a href="mailto:dev.mahtristao@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-C88CDE?style=for-the-badge&logo=gmail&logoColor=white;color:FFF" alt="E-Mail">
+</a>
+<a href="https://www.linkedin.com/in/mahtristao"><img src="https://img.shields.io/badge/LinkedIn-C88CDE?style=for-the-badge&logo=linkedin&logoColor=white;color:FFF" alt="LinkedIn"></a>
+</p>
+</div>
+
+### 🌻 About Me
+
+Hi there! 👋
+
+I'm Marjorie, a.k.a. Mah, I'm a junior full-stack developer, criative...
+
+## 🛠 &nbsp;Tech Stack
+
+### ⚙️ &nbsp;Back-End
+
+![Java](https://img.shields.io/badge/Java-EAD3F2?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-EAD3F2?style=for-the-badge&logo=node.js&logoColor=53D9A2)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-EAD3F2?style=for-the-badge&logo=typescript&logoColor=1572B6)&nbsp;
+
+### 🎨 &nbsp;Front-end
+
+![HTML](https://img.shields.io/badge/-HTML-EAD3F2?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-EAD3F2?style=for-the-badge&logo=CSS3&logoColor=139DFF)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-EAD3F2?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-EAD3F2?style=for-the-badge&logo=Angular&logoColor=893121)&nbsp;
+
+### 🚀 &nbsp;Database
+
+![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-EAD3F2?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-EAD3F2?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
