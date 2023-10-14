@@ -14,10 +14,9 @@
 
 <div align="center">
 <p>
-<a href="mailto:dev.mahtristao@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-C88CDE?style=for-the-badge&logo=gmail&logoColor=white;color:FFF" alt="E-Mail">
-</a>
-<a href="https://www.linkedin.com/in/mahtristao"><img src="https://img.shields.io/badge/LinkedIn-C88CDE?style=for-the-badge&logo=linkedin&logoColor=white;color:FFF" alt="LinkedIn"></a>
+<a href="mailto:dev.mahtristao@gmail.com"><img src="https://img.shields.io/badge/Gmail-C88CDE?style=for-the-badge&logo=gmail&logoColor=white; color:FFF" alt="E-Mail"></a>
+<a href="https://www.linkedin.com/in/mahtristao"><img src="https://img.shields.io/badge/LinkedIn-C88CDE?style=for-the-badge&logo=linkedin&logoColor=white; color:FFF" alt="LinkedIn"></a>
+<a href="https://mahtristao.github.io/portfolio/"><img src="https://img.shields.io/badge/my_portfolio-C88CDE?style=for-the-badge&logo=ko-fi&logoColor=white; color:FFF" alt="Portfolio"></a>
 </p>
 </div>
 
