@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello World, I'm Marjorie Tristão 👋
+  Hello World, I'm Marjorie Tristão 💜
 </h1>
 
 <div align="center">
@@ -22,9 +22,19 @@
 
 ### 🌻 About Me
 
-Hi there! 👋
+Hi, there! 👋🏻
 
-I'm Marjorie, a.k.a. Mah, I'm a junior full-stack developer, criative...
+I'm a fullstack developer in the making, currently based in the beautiful city of Vienna.
+
+My tech journey began in my pre-adolescence, tinkering with CSS and HTML on platforms like Blogspot, Blogger, and Tumblr. 
+I've always been the tech-savvy friend. 
+
+Although I initially pursued nursing due to doubts about the tech industry's inclusivity, the pandemic made me reconsider my career. 
+I realized that my true passion lies in technology. This year, I made the decision to transition into a programming career, and now I'm here, excited to learn and grow in the tech world. 
+
+Join me on this journey of discovery and creation! 
+
+
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -45,3 +55,5 @@ I'm Marjorie, a.k.a. Mah, I'm a junior full-stack developer, criative...
 
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-EAD3F2?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-EAD3F2?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
+
+
